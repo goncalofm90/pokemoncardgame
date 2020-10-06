@@ -1,2 +1,2 @@
 # Pokemon Card Game
-A simple pokemon card game using React components and a Pokedex API.
+A simple pokemon team simulator using React components and a Pokedex API.
